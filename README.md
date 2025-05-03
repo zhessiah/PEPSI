@@ -1,4 +1,4 @@
-#PEPSI
+# PEPSI
 
 Open-source code for PEPSI: Pareto-Optimal Adversarial Regularization for Robust
 Multi-agent Reinforcement Learning.
