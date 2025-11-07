@@ -1,0 +1,12 @@
+3rdparty/
+__MACOSX/
+__pycache__/
+results/
+*.png
+*.zip
+.DS_Store
+.github/
+.history/
+.vscode/
+test*.py
+install*.sh
